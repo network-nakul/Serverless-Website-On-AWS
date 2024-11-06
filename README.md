@@ -42,6 +42,4 @@ To access the website:
 - Adding backend functionality using AWS Lambda and API Gateway.
 - Implementing HTTPS and custom domain support.
 
-## License
 
-This project is licensed under the MIT License. See `LICENSE` for more information.
